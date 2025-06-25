@@ -1,0 +1,15 @@
+name: user_manager_app
+description: A simple command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  # path: ^1.8.0
+  http: ^0.13.0
+
+dev_dependencies:
+  lints: ^5.0.0
+
